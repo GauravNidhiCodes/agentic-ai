@@ -1,13 +1,10 @@
-fastapi==0.115.0
-uvicorn==0.30.6
-sqlalchemy==2.0.35
-python-dotenv==1.0.1
-openai==1.51.0
-httpx==0.27.2
-pydantic==2.9.2
- 
-# Memory (semantic vector search)
+fastapi
+uvicorn
+sqlalchemy
+python-dotenv
+openai
+httpx
+pydantic
 faiss-cpu
-sentence-transformers==3.1.1
-numpy==1.26.4
- 
+sentence-transformers
+numpy
